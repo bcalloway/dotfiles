@@ -1,0 +1,5 @@
+[user]
+        name = Brandon Calloway
+        email = brandon.calloway@bdel.com
+[alias]
+        lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
